@@ -1,0 +1,5 @@
+The final proyect following the instructions proposed.
+
+I add an light implementation allowing the player to move the player with UP/DOWN LEFT/RIGHT so the player can alternate the controls.
+
+I tried to do a sheep count of how many sheeps you feed, but the TextMeshProUGUI doesn't work properly to me. So I prefered to use and stable version.
